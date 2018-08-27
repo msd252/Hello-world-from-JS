@@ -3,4 +3,4 @@ function main() {
       console.log(message);
       alert(message);
 };
-main();
+main(); 
